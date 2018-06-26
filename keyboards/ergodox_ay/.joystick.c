@@ -6,6 +6,7 @@
 #include "print.h"
 #include "report.h"
 #include "timer.h"
+#include "expander.h"
 
 // Joystick
 // Set Pins
