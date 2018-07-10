@@ -10,7 +10,7 @@
 // The official ErgoDoxAY VID and PID are documented at http://pid.codes/1209/2328/.
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    A.Y.design
-#define PRODUCT         ErgoDoxAY
+#define PRODUCT         ErgoDoxAYTP
 #define DESCRIPTION     QMK keyboard firmware for ErgoDoxAY
 
 /* key matrix size */
