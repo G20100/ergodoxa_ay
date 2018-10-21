@@ -7,7 +7,7 @@
 #include "debug.h"
 #include "util.h"
 #include "matrix.h"
-#include "ergodoxay.h"
+#include "ergodoxaytp.h"
 #include "expander.h"
 #ifdef DEBUG_MATRIX_SCAN_RATE
 #include  "timer.h"

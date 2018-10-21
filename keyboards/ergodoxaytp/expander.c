@@ -3,7 +3,6 @@
 #include "i2cmaster.h"
 #include "expander.h"
 #include "debug.h"
-#include "Adafruit_ADS1015.h"
 
 static uint8_t expander_status = 0;
 static uint8_t expander_input = 0;
