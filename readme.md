@@ -32,3 +32,15 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official website
 
 [http://qmk.fm](http://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+## カスタマイズ説明
+
+このfolkは自作キーボード ergodoxay 用のQMKのfolkです。
+keyboards/ergodoxay/ フォルダ内を編集します。
+キーマップは keyboards/ergodoxay/keymaps/default/keymap.c を編集します。
+Ergodox ではなく Ergodone がベースとなっています。
+以下のコマンドでファームウェアのコンパイルができます。
+```
+qmk compile -kb ergodoxay
+```
+
